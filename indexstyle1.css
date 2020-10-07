@@ -44,9 +44,15 @@ html{
 .header-nav img{
   width: 20%;
 }
-
-.cuerpo-index {
-  margin: 2rem 0;
+.cuerpo-i2 {
+  margin: 3rem auto;
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+.platillos-index {
+  margin-top: 1rem;
 }
 
 
