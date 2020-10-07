@@ -13,12 +13,13 @@
     <div class="header-nav contenedor">
       <img src="img/logo1.png" alt="">
       <nav>
-        <a href="">Inicios</a>
+        <a href="">inicio</a>
         <a href="./Login/login.php">Login</a>
-        <a href="Comentarios/Comentarios.php">Comentario</a>
+        <a href="Comentarios/Comentarios.php">Hola</a>
       </nav>
     </div>
   </header>
+
 <main class=" contenedor cuerpo-index">
 
   <div class="card-deck">
