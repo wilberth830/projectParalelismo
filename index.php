@@ -10,7 +10,6 @@
 <body>
   <header class="class-header">
     <div class="header-nav contenedor">
-      <img src="img/logo1.png" alt="">
       <nav>
         <a href="">Inicio</a>
         <a href="./Login/login.php">Login</a>
