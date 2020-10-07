@@ -19,8 +19,8 @@ html{
   
   /* header */
   .class-header {
-    background-color: #cccccc;
     padding: 1rem;
+    border-bottom: 1px solid black;
   }
   .header-nav {
     display: flex;
@@ -40,6 +40,11 @@ html{
     font-weight: 600;
   }
 /*fin header*/
+
+.header-nav img{
+  width: 20%;
+}
+
 
 /*footer*/
   .par-footer{
