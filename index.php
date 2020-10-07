@@ -15,7 +15,7 @@
       <nav>
         <a href="">inicio</a>
         <a href="./Login/login.php">Login</a>
-        <a href="Comentarios/Comentarios.php">Hola</a>
+        <a href="Comentarios/Comentarios.php">chuchi</a>
       </nav>
     </div>
   </header>
