@@ -11,7 +11,7 @@
 <body>
   <header class="class-header">
     <div class="header-nav contenedor">
-      <img src="img/logo2.png" alt="">
+      <img src="img/logo1.png" alt="">
       <nav>
         <a href="">inicio</a>
         <a href="./Login/login.php">Login</a>
