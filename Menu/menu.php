@@ -57,25 +57,25 @@
       <div class="platillos-index">
         <div class="card-deck">
           <div class="card">
-            <img src="img/plato1.jpg" class="card-img-top" alt="...">
+            <img src="img/plato6.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Chaufa de Pollo</h5>
+              <h5 class="card-title">Lomo Saltado</h5>
               <p class="card-text">Arroz con un poco de </p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
           <div class="card">
-            <img src="img/plato2.png" class="card-img-top" alt="...">
+            <img src="img/plato7.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Chicharron de Chancho</h5>
+              <h5 class="card-title">Aji de Pollo</h5>
               <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
           <div class="card">
-            <img src="img/plato5.png" class="card-img-top" alt="...">
+            <img src="img/plato8.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Estofado de Pollo</h5>
+              <h5 class="card-title">Anticucho</h5>
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
@@ -85,29 +85,22 @@
       <div class="platillos-index">
         <div class="card-deck">
           <div class="card">
-            <img src="img/plato1.jpg" class="card-img-top" alt="...">
+            <img src="img/plato12.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Chaufa de Pollo</h5>
+              <h5 class="card-title">Cuy Chactado</h5>
               <p class="card-text">Arroz con un poco de </p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
           <div class="card">
-            <img src="img/plato2.png" class="card-img-top" alt="...">
+            <img src="img/plato13.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Chicharron de Chancho</h5>
+              <h5 class="card-title">Trucha Frita</h5>
               <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
-          <div class="card">
-            <img src="img/plato5.png" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Estofado de Pollo</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-              <a href="#" class="btn btn-primary">Ver</a>
-            </div>
-          </div>
+          
         </div><!--fin cardec-->  
       </div><!--fin platillos-index-->
   </div><!--fin cuerpo i2-->
@@ -116,25 +109,25 @@
       <div class="platillos-index">
         <div class="card-deck">
           <div class="card">
-            <img src="img/plato1.jpg" class="card-img-top" alt="...">
+            <img src="img/plato9.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Chaufa de Pollo</h5>
+              <h5 class="card-title">Picaron</h5>
               <p class="card-text">Arroz con un poco de </p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
           <div class="card">
-            <img src="img/plato2.png" class="card-img-top" alt="...">
+            <img src="img/plato10.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Chicharron de Chancho</h5>
+              <h5 class="card-title">Mazomorra Morada</h5>
               <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
           <div class="card">
-            <img src="img/plato5.png" class="card-img-top" alt="...">
+            <img src="img/plato11.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Estofado de Pollo</h5>
+              <h5 class="card-title">Alfajor</h5>
               <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
