@@ -13,11 +13,11 @@
   
   <div class="img-login">
     <header class="class-header">
-    <div class="header-nav contenedor">
-      <a href="../index.php"><img src="img/logo1.png" alt=""></a>
-      </div>
-      
+      <div class="header-nav contenedor">
+        <a href="../index.php"><img src="img/logo2.png" alt=""></a>
+      </div>      
     </header>
+
       <div class="formulario">
         <div class="contenedor cont-form">
           <div class="class-login">

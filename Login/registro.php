@@ -13,7 +13,7 @@
   <div class="img-login">
     <header class="class-header">
       <div class="header-nav contenedor">
-      <a href="../index.php"><img src="img/logo1.png" alt=""></a>
+      <a href="../index.php"><img src="img/logo2.png" alt=""></a>
       </div>      
     </header>
 
@@ -50,7 +50,7 @@
     </div>
 
     <footer class="par-footer">
-    <p>&copy; Fashion Style todos los derechos reservados - 2020</p>
+    <p>&copy; Casual Food todos los derechos reservados - 2020</p>
     </footer>
 
   

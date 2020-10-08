@@ -34,23 +34,9 @@
     left: 0;
     width: 100%;
   }
-  .header-nav {
-    display: flex;
-    justify-content: space-between;
-
-  
-  }
-  .header-nav nav a{
-    display: inline-block;
-    color: #000000;
-    padding: 1rem .9rem;
-    text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
-  
-  }
-  .header-nav nav a:hover{
-    color: #000000;
-    font-weight: 600;
+  .header-nav img{
+    height: 78px;
+    width: 220px;
   }
   /* parte login */
   .img-login {

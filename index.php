@@ -112,7 +112,7 @@
   
 
   <footer class="par-footer">
-    <p>&copy; Fashion Style todos los derechos reservados - 2020</p>
+    <p>&copy; Casual Food todos los derechos reservados - 2020</p>
     </footer>
 </body>
 </html>
