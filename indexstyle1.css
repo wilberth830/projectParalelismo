@@ -36,6 +36,7 @@ html{
   
   }
   .header-nav nav a:hover {
+    text-decoration: none;
     color: #000000;
     font-weight: 600;
   }
@@ -52,7 +53,7 @@ h2 {
   text-transform: uppercase;
 }
 .cuerpo-i2 h2{
-  border-bottom:1px solid #a8a8a8 ;
+  border-bottom:12px solid #a8a8a8 ;
 }
 .platillos-index {
   margin-top: 1.5rem;
