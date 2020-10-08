@@ -19,8 +19,7 @@ a {
 
 /* header */
 .class-header {
-  padding: 1rem;
-  border-bottom: 1px solid black;
+  background-image: url(img/portada.jpg);
 }
 .header-nav {
   display: flex;
@@ -48,20 +47,7 @@ a {
 .header-nav img{
 width: 20%;
 }
-.cuerpo-i2 {
-margin: 3rem auto;
-}
-h2 {
-text-align: center;
-text-transform: uppercase;
-}
-.cuerpo-i2 h2{
-padding-bottom: 2rem;
-border-bottom:1px solid #a8a8a8 ;
-}
-.platillos-index {
-margin-top: 1.5rem;
-}
+
 
 
 

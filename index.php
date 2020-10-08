@@ -19,6 +19,9 @@
       </nav>
     </div>
   </header>
+  <main class="cuerpo-index">
+    
+  </main>
 
 
   
