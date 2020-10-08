@@ -19,9 +19,43 @@
       </nav>
     </div>
   </header>
-  <main class="cuerpo-index">
 
+  <main class="cuerpo-index">
+    <div class="contenedor cuerpo-i2">
+      <h2>Menu</h2>
+      <div class="platillos-index">
+        <div class="card-deck">
+          <div class="card">
+            <img src="Menu/img/plato6.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Lomo Saltado</h5>
+              <p class="card-text">Arroz con un poco de </p>
+              <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="Menu/img/plato7.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Aji de Pollo</h5>
+              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="Menu/img/plato8.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Anticucho</h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <a href="#" class="btn btn-primary">Ver</a>
+            </div>
+          </div>
+        </div><!--fin cardec-->  
+      </div><!--fin platillos-index-->
+      <br>
+      <button type="button" class="btn btn-primary btn-lg btn-block">Saber mas</button>
+    </div><!--fin cuerpo i2-->
   </main>
+
 
 
   
