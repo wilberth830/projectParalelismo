@@ -18,7 +18,7 @@
     </div>
       <nav>
         <a href="Comentarios/Comentarios.php">Promociones</a>
-        <a href="./Login/login.php">Login</a>
+        <a href="../Login/login.php">Login</a>
       </nav>
     </div>
   </header>
