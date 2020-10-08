@@ -17,12 +17,11 @@
         </a>
     </div>
       <nav>
-        <a href="Comentarios/Comentarios.php">Promociones</a>
+        <a href="../Promocion/promocion.php">Promociones</a>
         <a href="../Login/login.php">Login</a>
       </nav>
     </div>
   </header>
-
 <main class="cuerpo-index">
   <div class="contenedor cuerpo-i2">
       <h2>Menu</h2>
@@ -128,7 +127,7 @@
             <img src="img/plato11.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Alfajor</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <p class="card-text">This is a wider card with.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
@@ -137,7 +136,6 @@
   </div><!--fin cuerpo i2-->
 </main>
   
-
   <footer class="par-footer">
     <p>&copy; Casual Food todos los derechos reservados - 2020</p>
     </footer>
