@@ -128,7 +128,7 @@
             <img src="img/plato11.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Alfajor</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <p class="card-text">This is a wider card with.</p>
               <a href="#" class="btn btn-primary">Ver</a>
             </div>
           </div>
