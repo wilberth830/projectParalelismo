@@ -52,7 +52,7 @@
         </div><!--fin cardec-->  
       </div><!--fin platillos-index-->
       <br>
-      <button type="button" class="btn btn-primary btn-lg btn-block">Saber mas</button>
+      <a href="Menu/menu.php"><button type="button" class="btn btn-primary btn-lg btn-block">Saber mas</button></a>
     </div><!--fin cuerpo i2-->
   </main>
 

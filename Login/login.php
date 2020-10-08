@@ -27,7 +27,7 @@
               <input id="nomCuenta" name="nomCuenta" type="text" placeholder="Nombre de cuenta" require>
               <label for="clave">Contraseña</label>
               <input id="clave" name="clave" type="password" placeholder="Contraseña" require>
-              <p>No tengo cuenta <a href="registro.php">Registrarse</a></p>
+              <p>No tengo cuenta<a href="registro.php">Registrarse</a></p>
               <div class="clas-btn">
                 <input type="submit" value="Enviar" class="btn-form">           
               </div> 
