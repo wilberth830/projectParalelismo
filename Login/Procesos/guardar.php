@@ -4,8 +4,6 @@
     $email=$_POST['email'];
     $nomcuenta=$_POST['nomCuenta'];
     $clave1=md5($_POST['clave']);
-    
-    $clave2=$_POST['claveConf'];
 
     $consulta=$pdo->prepare("INSERT INTO usuario(NombreCuenta,Nombres,Apellidos,Email,Clave) VALUE(:nomcuenta,:nombres,:apellidos,:email,:clave)");
 
@@ -16,8 +14,8 @@
     $consulta->bindParam(':clave',$clave1);
 
     if($consulta->execute()){
-        echo "Datos almacenados";
+        echo "<br>Datos almacenados";
     }else {
-        echo "ERROR!! No se guardaron los datos";
+        echo "<br>ERROR!! No se guardaron los datos";
     }
 ?>

@@ -54,29 +54,9 @@
             <input id="nomCuenta" name="nomCuenta" type="text" placeholder="Nombre de cuenta" required>
             <label for="clave">Contraseña</label>
             <input id="clave" name="clave" type="password" placeholder="Contraseña" required="">
-            <label for="claveConf">Confirmar contraseña</label>
-            <input id="claveConf" name="claveConf" type="password" placeholder="Confirmar contraseña" required="">
             <div class="clas-btn">
               <input type="submit" value="Guardar" class="btn-form" data-toggle="modal" data-target="#exampleModal">           
             </div> 
-
-            <!-- Modal -->
-            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-              <div class="modal-dialog">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Bienvenido</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                      <span aria-hidden="true">&times;</span>
-                    </button>
-                  </div>
-                  <div class="modal-body">
-                    Muchas gracias por registrarte
-                  </div>
-                </div>
-              </div>
-            </div><!--modal fade-->
-          </form><!--formr-->
           <?php 
               if(isset($_POST['nombres'])&&isset($_POST['apellidos'])&&isset($_POST['email'])&&isset($_POST['nomCuenta'])&&isset($_POST['clave'])&&isset($_POST['claveConf'])){
                   require_once "Conexion/conexionBD.php";
