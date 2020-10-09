@@ -17,9 +17,10 @@
                         1 => "img/plato2.png",
                         2 => "img/plato3.png",
                         3 => "img/plato4.jpg",
-                        4 => "img/plato6.jpg",
-                        5 => "img/plato7.jpg",
-                        6 => "img/plato8.jpg"
+                        4 => "img/plato5.jpg",
+                        5 => "img/plato6.jpg",
+                        6 => "img/plato7.jpg",
+                        7 => "img/plato8.jpg",
       );
       $numImg=$numImgArray[$_GET['num']];
     }else
@@ -48,7 +49,7 @@
   </header>
   <main class="cuerpo-index">
     <div class="contenedor cuerpo-i2">
-      <h2>Menu</h2>
+      <h2>Plato</h2>
 
       <div class="platillos-index">
         <div class="card-deck">
